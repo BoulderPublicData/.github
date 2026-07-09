@@ -38,9 +38,7 @@ A few of the people and organizations doing related work in and around Boulder a
 - [City of Boulder Open Data](https://open-data.bouldercolorado.gov/) — the city's official open data portal.
 - [Boulder County Open Data](https://opendata-bouldercounty.hub.arcgis.com/) — county-level geospatial and administrative data.
 - [Colorado Information Marketplace](https://data.colorado.gov/) — statewide open records.
-- [Boulder Reporting Lab](https://boulderreportinglab.org/) — civic journalism with a strong data bent.
-- [CU Boulder Public Interest Data Science (CUPIDS) Clinic](https://www.colorado.edu/cmci/cupids) — the campus clinic that trains students in this kind of work.
-- [Catalyst Cooperative](https://github.com/catalyst-cooperative) — a model for how to do public-interest data engineering, at a larger scale and on a different sector (US energy).
+- [Carnegie Library](https://localhistory.boulderlibrary.org/) — Boulder's historical archives.
 
 ### Contact 💌
 
